@@ -106,8 +106,6 @@ I enjoy turning ideas into functional applications, experimenting with different
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquan-Legae&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub contribution streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquan-Legae&theme=github_dark&hide_border=true&layout=compact" height="180" alt="Most used programming languages" />
-
 </div>
 
 ---
@@ -127,13 +125,5 @@ I enjoy turning ideas into functional applications, experimenting with different
 <div align="center">
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
-
-</div>
-
----
-
-<div align="center">
-
-  ![](https://visitcount.itsvg.in/api?id=Shaquan-Legae&icon=0&color=0)
 
 </div>
