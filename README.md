@@ -102,8 +102,8 @@ I enjoy turning ideas into functional applications, experimenting with different
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaquan-Legae&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquan-Legae&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub contribution streak" />
+  
 </div>
 
 ---
