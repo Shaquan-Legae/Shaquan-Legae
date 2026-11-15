@@ -87,7 +87,7 @@ I enjoy turning ideas into functional applications, experimenting with different
 
 ### 🚀 Featured Projects
 
-- 🏢 **LeaseGuard**: Commercial property and lease management platform designed to help property managers monitor portfolios, properties, units, leases, rental payments, escalations, guarantees, arrears, renewals, and tenant communications.
+- 🏢 **LeaseGuard**: Commercial and retail property and lease management platform designed to help property managers monitor portfolios, properties, units, leases, rental payments, escalations, guarantees, arrears, renewals, and tenant communications.
 - 🏀 **RUN NEXT**: Full-stack amateur basketball platform featuring player profiles, team management, statistics, match history, fixtures, results, and league standings.
 - 🤖 **[RAG System](https://github.com/Shaquan-Legae/RAG-System)**: Retrieval-Augmented Generation API built with FastAPI, ChromaDB, and Ollama, integrating local LLMs for document-based question answering. Includes automated testing with Pytest.
 - 👔 **OutfitAI**: AI-powered wardrobe assistant featuring clothing recognition, personalised outfit recommendations, weather integration, and Firebase services.
