@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 **I'm currently working on**  
-Building full-stack applications, AI-powered software solutions, and workflow automation systems. Currently contributing to real-world software development at AddMore Digital, working across full-stack development and AI-focused solutions. My current projects include LeaseGuard, a commercial property and lease management platform, RUN NEXT, an amateur basketball platform, and AI applications involving RAG architectures and local LLMs.
+Building full-stack applications, AI-powered software solutions, and workflow automation systems. Currently contributing to real-world software development at AddMore Digital, working across full-stack development and AI-focused solutions. My current projects include LeaseGuard, a commercial and retail property and lease management platform, RUN NEXT, an amateur basketball platform, and AI applications involving RAG architectures and local LLMs.
 
 🤝 **I'm looking to collaborate on**  
 Full-stack applications, AI-powered products, LLM applications, developer tools, workflow automation, open-source projects, and real-world software engineering solutions.
@@ -85,39 +85,55 @@ I enjoy turning ideas into functional applications, experimenting with different
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🏢 **LeaseGuard**: Commercial and retail property and lease management platform designed to help property managers monitor portfolios, properties, units, leases, rental payments, escalations, guarantees, arrears, renewals, and tenant communications.
-- 🏀 **RUN NEXT**: Full-stack amateur basketball platform featuring player profiles, team management, statistics, match history, fixtures, results, and league standings.
-- 🤖 **[RAG System](https://github.com/Shaquan-Legae/RAG-System)**: Retrieval-Augmented Generation API built with FastAPI, ChromaDB, and Ollama, integrating local LLMs for document-based question answering. Includes automated testing with Pytest.
-- 👔 **OutfitAI**: AI-powered wardrobe assistant featuring clothing recognition, personalised outfit recommendations, weather integration, and Firebase services.
-- 📋 **Student Feedback Automation System**: Automated feedback collection and processing using React, n8n, Google Sheets, and Gmail.
-- 🏠 **Airbnb Clone**: Full-stack accommodation booking application built using the MERN stack.
-- ✅ **Task Management System**: Task management application built with Angular and ASP.NET Core Web API.
-- ⛳ **19th Hole Golf Website**: Responsive golf website.
-
----
-
-### 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Shaquan-Legae&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shaquan-Legae&theme=github-dark-blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquan-Legae&theme=github_dark&hide_border=true&layout=compact)
+- 🏢 **LeaseGuard:** Commercial and retail property and lease management platform designed to help property managers monitor portfolios, properties, units, leases, rental payments, escalations, guarantees, arrears, renewals, and tenant communications.
+- 🏀 **RUN NEXT:** Full-stack amateur basketball platform featuring player profiles, team management, statistics, match history, fixtures, results, and league standings.
+- 🤖 **[RAG System](https://github.com/Shaquan-Legae/RAG-System):** Retrieval-Augmented Generation API built with FastAPI, ChromaDB, and Ollama, integrating local LLMs for document-based question answering. Includes automated testing with Pytest.
+- 👔 **OutfitAI:** AI-powered wardrobe assistant featuring clothing recognition, personalised outfit recommendations, weather integration, and Firebase services.
+- 📋 **Student Feedback Automation System:** Automated feedback collection and processing using React, n8n, Google Sheets, and Gmail.
+- 🏠 **Airbnb Clone:** Full-stack accommodation booking application built using the MERN stack.
+- ✅ **Task Management System:** Task management application built with Angular and ASP.NET Core Web API.
+- ⛳ **19th Hole Golf Website:** Responsive golf website.
 
 ---
 
-### 🐍 Contribution Activity
+## 📊 GitHub Statistics
 
-![](https://github.com/Shaquan-Legae/Shaquan-Legae/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaquan-Legae&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquan-Legae&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub contribution streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquan-Legae&theme=github_dark&hide_border=true&layout=compact" height="180" alt="Most used programming languages" />
+
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
+## 📅 GitHub Contribution Activity
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Shaquan-Legae&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://ghchart.rshah.org/409ba5/Shaquan-Legae" alt="Shaquan's GitHub contribution graph" width="100%" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random developer quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ![](https://visitcount.itsvg.in/api?id=Shaquan-Legae&icon=0&color=0)
+
+</div>
