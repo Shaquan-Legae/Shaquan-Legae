@@ -88,13 +88,13 @@ I enjoy turning ideas into functional applications, experimenting with different
 ## 🚀 Featured Projects
 
 - 🏢 **LeaseGuard:** Commercial and retail property and lease management platform designed to help property managers monitor portfolios, properties, units, leases, rental payments, escalations, guarantees, arrears, renewals, and tenant communications.
-- 🏀 **RUN NEXT:** Full-stack amateur basketball platform featuring player profiles, team management, statistics, match history, fixtures, results, and league standings.
+- 🏀 **[RUN NEXT](https://run-next-frontend.onrender.com/):** Full-stack amateur basketball platform featuring player profiles, team management, statistics, match history, fixtures, results, and league standings.
 - 🤖 **[RAG System](https://github.com/Shaquan-Legae/RAG-System):** Retrieval-Augmented Generation API built with FastAPI, ChromaDB, and Ollama, integrating local LLMs for document-based question answering. Includes automated testing with Pytest.
 - 👔 **[OutfitAI](https://github.com/Shaquan-Legae/OutfitAI):** AI-powered wardrobe assistant featuring clothing recognition, personalised outfit recommendations, weather integration, and Firebase services.
-- 📋 **Student Feedback Automation System:** Automated feedback collection and processing using React, n8n, Google Sheets, and Gmail.
-- 🏠 **Airbnb Clone:** Full-stack accommodation booking application built using the MERN stack.
-- ✅ **Task Management System:** Task management application built with Angular and ASP.NET Core Web API.
-- ⛳ **19th Hole Golf Website:** Responsive golf website.
+- 📋 **[Student Feedback Automation System](https://github.com/Shaquan-Legae/Student-Feedback-Automation-System):** Automated feedback collection and processing using React, n8n, Google Sheets, and Gmail.
+- 🏠 **[Airbnb Clone](https://github.com/Shaquan-Legae/airbnb-clone):** Full-stack accommodation booking application built using the MERN stack.
+- ✅ **[Task Management System](https://github.com/Shaquan-Legae/Task-Management-System):** Task management application built with Angular and ASP.NET Core Web API.
+- ⛳ **[19th Hole Golf Website](https://19th-hole.netlify.app/):** Responsive golf website.
 
 ---
 
